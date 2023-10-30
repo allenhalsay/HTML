@@ -2,6 +2,7 @@ body{
     margin: 0 auto;
     width: 1000px;
     min-height: 90vh;
+    background: linear-gradient(180deg, rgba(227, 255, 248, 0) 82.08%, rgba(227, 255, 248, 0.38) 100%);
 }
 
 header{
